@@ -1,6 +1,6 @@
 # Classic Flappy Bird Game
 ###### Made with Python, by Kuchinpotta (aka Me)
-## Images and Videos
+## Images
 ![No Score](https://github.com/Krunal-Chandan/FlappyBird/blob/main/ss/Pygame-FlappyBird.png)
 ![With Score](https://github.com/Krunal-Chandan/FlappyBird/blob/main/ss/Pygame-FlappyBird2.png)
 ***
